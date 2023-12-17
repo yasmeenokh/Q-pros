@@ -1,0 +1,7 @@
+.workspace_list_container{
+ .workspace_item{
+  &:last-child{
+   border-bottom: none;
+  }
+ }
+}
