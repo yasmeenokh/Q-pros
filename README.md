@@ -19,4 +19,4 @@ This project was built using Nextjs and Tailwind css, integration with nestjs wi
 
 ## Deployed on Vercel
 
-Deployed Url : [https://q-pros.vercel.app/](URL)
+Deployed Url : [URL](https://q-pros.vercel.app/)
